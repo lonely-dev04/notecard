@@ -1,0 +1,4 @@
+{
+    "nrf-connect.toolchainManager.installDirectory": "C:\\nRF5_SDK_17.1.0_ddde560\\components\\toolchain",
+    "nrf-connect.topdir": "${nrf-connect.sdk:2.6.1}"
+}
